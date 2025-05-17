@@ -1,0 +1,22 @@
+<td id= >-</td>
+<td id= >-</td>
+<td id= >-</td>
+<td id= >-</td>
+<td id= >-</td>
+<td id= >-</td>
+<td id= >-</td>
+<td id= >-</td>
+<td id= >-</td>
+
+
+
+<td id="cloud_pct"></th>
+<td id="feels_like"></th>
+<td id="humidity"></th>
+<td id="max_temp"></th>
+<td id="min_temp"></th>
+<td id="sunrise"></th>
+<td id="sunset"></th>
+<td id="temp"></th>
+<td id="wind_degrees"></th>
+<td id="wind_speed"></th>
